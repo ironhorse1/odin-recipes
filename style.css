@@ -1,0 +1,56 @@
+.main {
+    width: 600px;
+    display:block;
+    align-items: center;
+    border: 5px;
+    background-color:rgb(24, 246, 172);
+    box-shadow: 8px 8px 8px 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image {
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    padding-top: 10px;
+    
+}
+.recipes {
+    
+    color: white;
+    
+   
+   
+}
+
+body{
+    background-color: aquamarine;
+
+}
+
+.top {
+   box-shadow: 8px 8px 8px 8px;
+   width: 300px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgb(24,246,172)
+   ;
+}
+
+
+
+
+
+.header {
+    font-style: italic;
+    font-size: 60px;
+    text-align: center;
+    border: 5;
+
+}
+
+
+    
+    
+

@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+}
+.mac {
+     box-shadow: 8px 8px 8px 8px;
+   width: 800px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgb(24,246,172);
+}
+
+.header {
+    box-shadow: 8px 8px 8px 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+  
+.image {
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    padding-top: 10px;
+}
+   
